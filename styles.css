@@ -3,6 +3,7 @@ body{
   font-weight: 300;
   font-size: small; 
   height: 100vh;
+  background-color: rgba(239, 236, 236, 0.307);
 }
 
 .main{
@@ -39,6 +40,7 @@ body{
 }
 
 .cards >*{
+  background-color: white;
   box-shadow: 1px 4px 5px 1px rgba(0, 0, 0, 0.1);
   padding: 20px;
   border-radius: 5px;
